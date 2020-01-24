@@ -1,0 +1,66 @@
+Robert V. Frazier
+full-stack web developer
+
+Making the world better one web app at a time.
+
+About me
+
+The rest of this website documents my professional side, and I'll be constantly updating it. Here's a bit about everything else in my life.
+
+My wife Laura and I live in South Carolina, and we have three grown children. Patrick is a rescue swimmer in the Coast Guard in Louisiana, Lousia is training to be a physician's assistant in California, and Abigail teaches high school in Georgia. We have a calico cat with the obligatory name Callie.
+
+I keep in shape (somewhat) with aerobic excercise, weight lifting, hiking, and biking. Bodies as well as code have to be debugged.
+
+Interests:
+
+Reading — non-fiction: computer books, history, biography, how to draw, magic
+fiction: fantasy, science fiction, mystery, horror, superheroes, classics
+
+Drawing
+
+Magic
+
+Photography
+
+Woodworking
+
+3D graphics & 3D printing
+
+-----------------------------------------------------------------------
+
+Education
+
+Bachelor of Arts degree from Northwest University in Kirkland, WA. Major: biblical literature. Minor: missions. I had plans to be a Bible translator at the time, but that didn't work out. Most of my computer knowledge is self-taught. I went through the full-stack web development course at Thinkful, and have been continuing to learn more on my own since then. I'm working through several Udemy courses on web development. There's always more to learn.
+
+-----------------------------------------------------------------------
+
+Experience
+
+I've been writing programs since I bought my first computer in 1981.
+
+After college, I worked at Ehli Auctions, where part of my duties was writing and maintaining a relational database for running their auctions in a program called Magic, from Magic Software Enterprises https://www.magicsoftware.com/.
+
+I wanted to program full-time, so I went to work for Answers on Demand, where I wrote and maintained hundreds of programs in the software suite they marketed to retirement centers. This was also all done in Magic. A major focus of my work there was the programs dealing with complying with state and federal government regulations. I did a lot of user interface design, but even more designing and debugging forms and reports. I got to be an expert at talking with the company's many clients, getting the information needed to troubleshoot bugs, as well as getting specifications for new features the clients wanted us to add to the system. I wrote my own testing programs, such as one for sequentially displaying in print preview every possible permutation of user-selectable options for printing payroll and accounts payable checks and their check stubs.
+
+Answers on Demand was bought out by MatrixCare, and eventually they downsized most of the developers from Answers on Demand, myself included. Ever since, I've been working on transitioning from a database programmer to a full-stack web developer.
+
+-----------------------------------------------------------------------
+
+Projects
+
+-----------------------------------------------------------------------
+
+Skills
+
+
+
+-----------------------------------------------------------------------
+
+Contact
+
+
+
+-----------------------------------------------------------------------
+
+Resume
+
