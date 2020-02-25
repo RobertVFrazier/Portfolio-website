@@ -130,18 +130,21 @@ table {
 body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
-  font-size: 1.6rem;
-  line-height: 1.7;
+  font-size: 5.8vmin;
+  line-height: 1;
   color: #000;
   padding: 3rem; }
 
-.heading-text {
-  position: absolute;
-  top: 0;
-  font-size: 1.2rem;
+.header__hero-tagline {
+  font-family: "Roboto", sans-serif;
+  color: #ffc93c;
   font-weight: 900;
-  color: #fff;
-  text-transform: uppercase; }
+  text-shadow: 3px 3px 0 #155263, 3px -3px 0 #155263, -3px 3px 0 #155263, -3px -3px 0 #155263, 3px 0px 0 #155263, 0px 3px 0 #155263, -3px 0px 0 #155263, 0px -3px 0 #155263;
+  line-height: 1.2; }
+  .header__hero-tagline--one {
+    display: block; }
+  .header__hero-tagline--two {
+    display: block; }
 
 .header {
   height: 100vh;
@@ -153,8 +156,18 @@ body {
   position: absolute;
   top: 0;
   left: 0; }
-  .header__hero {
+  .header__hero-box {
+    display: flex;
+    justify-content: flex-end;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    height: 100vw; }
+    height: 100vmin; }
+  .header__hero-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; }
+  .header__hero-tagline {
+    position: absolute;
+    top: 8%;
+    right: 3%; }
