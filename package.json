@@ -21,5 +21,8 @@
   "homepage": "https://github.com/RobertVFrazier/Portfolio-website#readme",
   "devDependencies": {
     "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "gsap": "^3.2.0"
   }
 }
